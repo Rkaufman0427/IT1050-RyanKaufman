@@ -18,7 +18,7 @@ namespace Lab2
 
             sum = number1 + number2;
 
-            Console.WriteLine("Sum is 27, sum");
+            Console.WriteLine("Sum is, 27");
         }
     }
 }
