@@ -2,24 +2,23 @@
 
 namespace Lab2
 {
-    class Addition
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            int 40;
-            int 30;
-            int 70;
+            int number1 = 15;
+            int number2 = 12;
+            int sum = 27;
 
-            Console.Write("40");
-            40 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter first integer:15");
+            number1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("30");
-            30 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Enter second integer:12");
+            number2 = Convert.ToInt32(Console.ReadLine());
 
-            70 = 40+30;
+            sum = number1 + number2;
 
-            Console.WriteLine("Sum is {70},sum");
-
+            Console.WriteLine("Sum is 27, sum");
         }
     }
 }
