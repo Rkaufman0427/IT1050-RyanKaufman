@@ -4,7 +4,7 @@ namespace Lab2
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             int number1 = 15;
             int number2 = 12;
