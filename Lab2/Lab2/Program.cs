@@ -2,15 +2,24 @@
 
 namespace Lab2
 {
-    class Program
+    class Addition
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("{0}\n{1}", "Hello World!", "From Ryan Kaufman");
+            int 40;
+            int 30;
+            int 70;
 
-            Console.WriteLine("Hello World!  From Ryan Kaufman");
-            Console.WriteLine(" A. At what point in the program does our C# Console Application execute?, The point of execution is the Main Method.");
-            Console.WriteLine(" B. What is the difference between an integer type variable and a double / floating-point variable?, The Difference is that Integer Type are whole numbers and Double / Floating are Decimals.");
+            Console.Write("40");
+            40 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("30");
+            30 = Convert.ToInt32(Console.ReadLine());
+
+            70 = 40+30;
+
+            Console.WriteLine("Sum is {70},sum");
+
         }
     }
 }
