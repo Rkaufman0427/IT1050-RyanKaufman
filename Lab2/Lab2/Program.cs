@@ -4,23 +4,19 @@ namespace Lab2
 {
     class Addition
     {
-        //Main method begins execution of C# app
-        static void Main()
+        public static void Main(string[])
         {
-            int number1 = 15;
-            int number2 = 12;
-            int sum = number1+number2;
+            int number1 = 45;
+            int number2 = 72;
+            int sum = 117;
 
-            Console.Write("Enter first integer:15 ");
-            int v = int.Parse(Console.ReadLine());
-            number1 = v;
-
-            Console.Write("Enter second integer:12");
-            number2 = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("Enter first integer:45");
+     
+            Console.WriteLine("Enter second integer:72");
+            
             sum = number1 + number2;
 
-            Console.WriteLine("Sum is, 27");
+            Console.WriteLine("Sum is 117");
         }
     }
 }
