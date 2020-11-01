@@ -23,6 +23,11 @@ namespace Lab2
             Console.WriteLine("{0}\n{1}", "Hello World!", "From Ryan Kaufman");
 
             Console.WriteLine("Hello World! From Ryan Kaufman");
+
+            Console.WriteLine("A. At what point in our program does our C# Console Applications execute?, It would be the main entry point"):
+            Console.WriteLine("B. What is the difference between an integer type variable and a double / floating-point variable?, The Differance is that Integer Type are whole number and Double/Floating-point variables are decimals.");
+            Console.WriteLine("C. We can create blocks of code that we can call by name using a method.  Give an example of a method from Chapter 4., an example of a Method is SetName");
+            Console.WriteLine("D. Like we have types double and int, we can create our own custom types using Classes.  Each class has variables called instance variables or class members.  To read the value of an instance variable, we create method called a ____ accessor.  To assign a value ton instance variable, we use a method called a ____ accessor.")
         }
     }
 }
