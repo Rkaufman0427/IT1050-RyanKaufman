@@ -18,7 +18,11 @@ namespace Lab2
 
             sum = number1 + number2;
 
-            Console.WriteLine("Sum is {0}",sum);
+            Console.WriteLine("Sum is {0}", sum);
+    
+            Console.WriteLine("{0}\n{1}", "Hello World!", "From Ryan Kaufman");
+
+            Console.WriteLine("Hello World! From Ryan Kaufman");
         }
     }
 }
