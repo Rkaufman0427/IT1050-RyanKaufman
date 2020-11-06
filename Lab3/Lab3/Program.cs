@@ -2,28 +2,37 @@
 
 namespace Lab3
 {
-    class Program
+    public class Driving
     {
         public static void Main(string[] args)
         {
             Console.WriteLine("The If Single- Selection Statement and the While Repetition Statement are the same because they both specify and action for a result and they are different because the While Repetition Statement allows the application to repeat itself and the If Single-Selection Statment does not");
 
-            string speedLimit = Console.ReadLine();
-            string speed = Console.ReadLine();
-
-            string message = "";
-
-            if (speedLimit == "35")
+            int speedLimit = 35;
+            int speed = 42;
+            if (speed > speedLimit)
             {
-                message = "";
-                Console.WriteLine(message);
+             Console.WriteLine("Slow Down");
             }
-            else if (speed == "42")
+             Console.ReadLine();
+
+        }
+    }
+}
+    public class booleantest
+    {
+            private static bool isTrue;
+            private static void Main(string[]args)
             {
-                message = "SLOW NOW!";
-                Console.WriteLine(message);
+            bool user = isTrue;
+            if (user == isTrue)
+            {
+                Console.WriteLine("It is True!");
             }
-            Console.ReadLine();
+            else
+            {
+                Console.WriteLine("It is False!");
+        }
         }
     }
 }
