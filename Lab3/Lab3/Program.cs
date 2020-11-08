@@ -50,6 +50,12 @@ namespace Lab3
             if (fahrenheit <= 40)
                 Console.WriteLine("It is cold");
 
+            int x = 1;
+            while (x<11)
+            {
+                Console.WriteLine(x); x++;
+            }
+
 
             Console.ReadLine();
         }
