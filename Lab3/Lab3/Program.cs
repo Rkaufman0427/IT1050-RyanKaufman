@@ -40,6 +40,17 @@ namespace Lab3
             if (a < 5)
                 Console.WriteLine("It is True");
 
+            Console.WriteLine("Input temperature in Fahrenheit");
+            double fahrenheit = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine();
+            double celcius = (fahrenheit - 32d) * 5d / 9d;
+            Console.WriteLine("Temperature in Celcius is {0}:", celcius);
+            if (fahrenheit >= 90)
+                Console.WriteLine("It is hot");
+            if (fahrenheit <= 40)
+                Console.WriteLine("It is cold");
+
+
             Console.ReadLine();
         }
     }
