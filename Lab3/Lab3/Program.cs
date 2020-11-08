@@ -56,6 +56,11 @@ namespace Lab3
                 Console.WriteLine(x); x++;
             }
 
+            int y = 60;
+            while (y>20)
+            {
+                Console.WriteLine(y); y--;
+            }
 
             Console.ReadLine();
         }
