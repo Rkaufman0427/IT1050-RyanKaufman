@@ -61,6 +61,11 @@ namespace Lab3
             {
                 Console.WriteLine(y); y--;
             }
+            int z = 10;
+            while (z<=20)
+            {
+                Console.WriteLine(z); z++;
+            }
 
             Console.ReadLine();
         }
