@@ -19,15 +19,15 @@ namespace Lab4
             {
                 Console.WriteLine("Polar Bear");
             }
-           else if (input <= 20)
+            else if (input <= 20)
             {
                 Console.WriteLine("Penguin");
             }
-            else if(input <= 40)
+            else if (input <= 40)
             {
                 Console.WriteLine("Moose");
             }
-            else if(input <= 50)
+            else if (input <= 50)
             {
                 Console.WriteLine("Reindeer");
             }
@@ -36,23 +36,31 @@ namespace Lab4
                 Console.WriteLine("Deer");
             }
             else if (input <= 70)
-                            {
+            {
                 Console.WriteLine("Turtle");
             }
             else if (input <= 80)
-                                {
+            {
                 Console.WriteLine("Lion");
             }
-            else if(input <= 90)
+            else if (input <= 90)
             {
                 Console.WriteLine("Fish");
             }
-            else if (input <= 0)
+            else
             {
                 Console.WriteLine("Bug");
-            }
 
-            Console.ReadLine();
+                int i = 0;
+                do
+                {
+                    Console.WriteLine(i); i++;
+                    Console.WriteLine("********");
+                }
+                while (i < 101);
+
+                Console.ReadLine();
+            }
         }
     }
 }
