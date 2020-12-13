@@ -41,6 +41,8 @@ namespace Lab7
             Console.WriteLine("Question 4, The concept of Overloading would be used");
             Console.WriteLine("Question 5, So fault tolerant programs can resolve exceptions");
             Console.WriteLine("Question 6, The purpose of private vs. public when adding new properties is so that it can hide implementations from clients. Public can be seen, used and accessed by any emthod whereas private is nly used when called and needed.");
-            Console.WriteLine(")
+            Console.WriteLine("Question 7, Composition is when classes have the capability to have references to objects of other class members. Known as the Has-A relationships");
+            Console.WrtieLine("Questions 8, Data Abstraction is when a client cares about what the class offers and the funtionality is implemented");
+
     }
 }
