@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab6\\Lab6\\Lab6.csproj": {}
+    "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab7\\Lab7\\Lab7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab6\\Lab6\\Lab6.csproj": {
+    "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab7\\Lab7\\Lab7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab6\\Lab6\\Lab6.csproj",
-        "projectName": "Lab6",
-        "projectPath": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab6\\Lab6\\Lab6.csproj",
+        "projectUniqueName": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab7\\Lab7\\Lab7.csproj",
+        "projectName": "Lab7",
+        "projectPath": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab7\\Lab7\\Lab7.csproj",
         "packagesPath": "C:\\Users\\rkaufman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab6\\Lab6\\obj\\",
+        "outputPath": "C:\\Users\\rkaufman\\Source\\Repos\\IT1050-RyanKaufman\\Lab7\\Lab7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rkaufman\\AppData\\Roaming\\NuGet\\NuGet.Config",
