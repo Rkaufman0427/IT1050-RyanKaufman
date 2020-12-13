@@ -1,0 +1,13 @@
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\rkaufman\source\repos\IT1050-RyanKaufman\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
